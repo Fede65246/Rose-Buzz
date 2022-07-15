@@ -30,4 +30,5 @@ To install the command download the .sh file, remove the extension and run:
     sudo chmod 775 ~/bin/rosebuzz
 
 Now run:
+
     rosebuzz install TheFileID
